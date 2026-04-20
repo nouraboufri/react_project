@@ -1,0 +1,21 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "phone",
+      "price": 3000
+    },
+    {
+      "id": "2",
+      "name": "laptop",
+      "price": 6000
+    },
+    {
+      "id": "3",
+      "name": "headphones",
+      "price": 500
+    }
+  ],
+  "cart": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}
